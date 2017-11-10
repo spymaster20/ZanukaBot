@@ -1,0 +1,2 @@
+# ZanukaBot
+Personal Discord bot
